@@ -16,6 +16,7 @@ var htmldata="";
 
 //Complete the code
 menu_list_array.sort();
+htmldata=htmldata+"</section>";
 for( var i=0;i<menu_list_array.length;i++){
 
 
